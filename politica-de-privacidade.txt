@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Política de Privacidade</title>
+
+<style>
+
+body{
+margin:0;
+font-family:"Segoe UI",Arial,sans-serif;
+background:#f4f6f9;
+color:#333;
+}
+
+header{
+background:linear-gradient(135deg,#0a2a4f,#154a8a);
+padding:25px 40px;
+display:flex;
+justify-content:space-between;
+align-items:center;
+color:#fff;
+}
+
+header h1{
+margin:0;
+font-size:26px;
+}
+
+nav a{
+color:#fff;
+text-decoration:none;
+margin-left:25px;
+}
+
+section{
+max-width:1100px;
+margin:60px auto;
+padding:40px;
+background:#fff;
+border-radius:12px;
+box-shadow:0 4px 16px rgba(0,0,0,.08);
+}
+
+h2{
+color:#154a8a;
+}
+
+footer{
+background:#0a2a4f;
+color:#fff;
+text-align:center;
+padding:25px;
+margin-top:50px;
+}
+
+footer a{
+color:#79b8ff;
+text-decoration:none;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Marcos Felipe Perera</h1>
+
+<nav>
+
+<a href="index.html">Início</a>
+
+<a href="politica-de-privacidade.html">Política de Privacidade</a>
+
+</nav>
+
+</header>
+
+<section>
+
+<h2>Política de Privacidade</h2>
+
+<p>
+
+A empresa <strong>Marcos Felipe Perera</strong>, inscrita no CNPJ
+<strong>65.963.630/0001-07</strong>, respeita a privacidade dos visitantes e está comprometida com a proteção dos dados pessoais eventualmente coletados durante a utilização deste site.
+
+</p>
+
+<h2>Coleta de Informações</h2>
+
+<p>
+
+As informações fornecidas voluntariamente poderão ser utilizadas exclusivamente para responder solicitações, prestar atendimento e melhorar a experiência do usuário.
+
+</p>
+
+<h2>Uso das Informações</h2>
+
+<p>
+
+Os dados coletados não são comercializados e são utilizados apenas para finalidades relacionadas ao funcionamento deste site e ao atendimento aos usuários.
+
+</p>
+
+<h2>Cookies</h2>
+
+<p>
+
+Este site poderá utilizar cookies para melhorar a navegação e analisar estatísticas de utilização.
+
+</p>
+
+<h2>Segurança</h2>
+
+<p>
+
+Adotamos medidas técnicas e administrativas adequadas para proteger as informações contra acesso não autorizado, alteração ou divulgação indevida.
+
+</p>
+
+<h2>Alterações</h2>
+
+<p>
+
+Esta Política de Privacidade poderá ser atualizada a qualquer momento para refletir melhorias ou alterações legais.
+
+</p>
+
+</section>
+
+<footer>
+
+© 2026 Marcos Felipe Perera • CNPJ 65.963.630/0001-07
+
+<br><br>
+
+<a href="index.html">Voltar ao início</a>
+
+</footer>
+
+</body>
+
+</html>

@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Marcos Felipe Perera</title>
+
+<style>
+body{
+margin:0;
+font-family:"Segoe UI",Arial,sans-serif;
+background:#f4f6f9;
+color:#333;
+}
+
+header{
+background:linear-gradient(135deg,#0a2a4f,#154a8a);
+padding:25px 40px;
+color:#fff;
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+
+header h1{
+margin:0;
+font-size:26px;
+font-weight:600;
+}
+
+nav a{
+color:#fff;
+text-decoration:none;
+margin-left:25px;
+font-weight:500;
+}
+
+.hero{
+padding:100px 20px;
+text-align:center;
+background:url("https://images.unsplash.com/photo-1617038220319-276d3cfab638?auto=format&fit=crop&w=1600&q=80") center/cover;
+color:#fff;
+}
+
+.hero h2{
+font-size:42px;
+text-shadow:0 3px 8px rgba(0,0,0,.4);
+}
+
+.hero p{
+font-size:20px;
+text-shadow:0 2px 6px rgba(0,0,0,.4);
+}
+
+section{
+max-width:1100px;
+margin:60px auto;
+padding:40px;
+background:#fff;
+border-radius:12px;
+box-shadow:0 4px 16px rgba(0,0,0,.08);
+}
+
+h2{
+color:#0a2a4f;
+}
+
+.grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+gap:25px;
+margin-top:20px;
+}
+
+.card{
+background:#f9fbfd;
+padding:25px;
+border-radius:12px;
+border:1px solid #e5eaf1;
+transition:.2s;
+}
+
+.card:hover{
+transform:translateY(-4px);
+box-shadow:0 4px 16px rgba(0,0,0,.1);
+}
+
+.card h3{
+color:#154a8a;
+}
+
+footer{
+background:#0a2a4f;
+color:#fff;
+padding:25px;
+text-align:center;
+margin-top:60px;
+}
+
+footer a{
+color:#79b8ff;
+text-decoration:none;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>Marcos Felipe Perera</h1>
+
+<nav>
+<a href="index.html">Início</a>
+<a href="politica-de-privacidade.html">Política de Privacidade</a>
+</nav>
+
+</header>
+
+<div class="hero">
+
+<h2>Joias e Acessórios com Elegância</h2>
+
+<p>Produtos cuidadosamente selecionados para oferecer qualidade, sofisticação e excelente atendimento aos clientes.</p>
+
+</div>
+
+<section>
+
+<h2>Quem Somos</h2>
+
+<p>
+A <strong>Marcos Felipe Perera</strong> é uma empresa fundada em
+<strong>29/03/2026</strong>, localizada em
+<strong>Guapó – GO</strong>, atuando no segmento de
+<strong>comércio varejista de artigos de joalheria</strong>.
+</p>
+
+<p>
+
+Inscrita no CNPJ
+<strong>65.963.630/0001-07</strong>,
+possui atividade econômica CNAE
+<strong>47.83-1-01 - Comércio varejista de artigos de joalheria</strong>,
+mantendo situação cadastral
+<strong>Ativa</strong>.
+
+</p>
+
+</section>
+
+<section>
+
+<h2>Nossos Serviços</h2>
+
+<div class="grid">
+
+<div class="card">
+<h3>Joias</h3>
+<p>Peças cuidadosamente selecionadas para diferentes ocasiões.</p>
+</div>
+
+<div class="card">
+<h3>Atendimento</h3>
+<p>Equipe preparada para oferecer suporte durante toda a experiência de compra.</p>
+</div>
+
+<div class="card">
+<h3>Qualidade</h3>
+<p>Compromisso com produtos de excelente acabamento e procedência.</p>
+</div>
+
+<div class="card">
+<h3>Confiança</h3>
+<p>Relacionamento transparente, seguro e focado na satisfação do cliente.</p>
+</div>
+
+</div>
+
+</section>
+
+<section>
+
+<h2>Nossos Valores</h2>
+
+<div class="grid">
+
+<div class="card">
+<h3>Missão</h3>
+<p>Oferecer produtos de qualidade com atendimento responsável e transparente.</p>
+</div>
+
+<div class="card">
+<h3>Visão</h3>
+<p>Ser reconhecida pela excelência no atendimento e pela confiança conquistada junto aos clientes.</p>
+</div>
+
+<div class="card">
+<h3>Valores</h3>
+<p>Compromisso, ética, qualidade, respeito e responsabilidade.</p>
+</div>
+
+</div>
+
+</section>
+
+<footer>
+
+© 2026 Marcos Felipe Perera • CNPJ 65.963.630/0001-07
+
+<br><br>
+
+<a href="politica-de-privacidade.html">Política de Privacidade</a>
+
+</footer>
+
+</body>
+</html>
